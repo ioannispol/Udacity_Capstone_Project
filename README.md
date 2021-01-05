@@ -3,4 +3,4 @@
 # Dog Breed Classification Project
 ## Project Overview
 The current project, Dog Breed classification, is for the fulfilment of Udacity's Machine Learning Engineer NanoDegree. 
-
+The project contains the [https://github.com/ioannispol/Udacity_Capstone_Project/blob/main/dog_app.ipynb](dog-app notebook)
