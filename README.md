@@ -11,6 +11,7 @@ The project submission contains the following documents:
 * [The final Report](https://github.com/ioannispol/Udacity_Capstone_Project/blob/main/Project-Report.pdf)
 * [The my_images folder](https://github.com/ioannispol/Udacity_Capstone_Project/tree/main/my_images) with the images used to test the algorithm
 * [The html file of the dog app](https://github.com/ioannispol/Udacity_Capstone_Project/blob/main/dog_app.html)
+
 The datasets used in the project are provided by Udacity an is saved in the S3 AWS. 
 * The first dataset contains [dog images](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip) of 133 different dog breeds
 * The second dataset contains [human faces](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip)
