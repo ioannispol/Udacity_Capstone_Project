@@ -1,4 +1,5 @@
-# Udacity's Machine Learning Engineer NanoDegree Capstone Project
+# Udacity's Machine Learning Engineer NanoDegree 
+# Capstone Project
 
 # Dog Breed Classification Project
 ## Project Overview
